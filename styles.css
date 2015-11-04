@@ -1,0 +1,30 @@
+
+
+body {
+	font-family: 'roboto', sans-serif;
+	font-weight: 300;
+}
+
+#search     {
+	color: blue;
+	height: 30;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+
+em	{
+	
+	color: blue;
+	text-transform: uppercase;
+}
+
+#results	{
+	
+	color: blue;
+	margin-left: 10px;
+}
+
+h2	{
+	color: black;
+}
+/* comments here */
